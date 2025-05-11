@@ -15,7 +15,7 @@
       </router-link>
       <router-link to="/inventario" class="menu-item">
         
-        <img src="../assets/agricultura.png" alt="" width="25">
+        <img src="../assets/inventario.png" alt="" width="25">
         <span class="label">Inventario</span>
       </router-link>
     </footer>

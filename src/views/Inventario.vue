@@ -344,6 +344,7 @@
   }
   .btna {
     width: 10%;
+    width: 25vw;
     background-color: #45a049;
   }
   </style>
